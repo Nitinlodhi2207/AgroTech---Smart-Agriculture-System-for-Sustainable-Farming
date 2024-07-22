@@ -9,8 +9,8 @@ Assemble all system as per circuit diagram. Program the NodeMCU using Arduino ID
  
 ## Components List and Technical Details
 ### NodeMCU (ESP8266)
-Microcontroller: Tensilica Xtensa LX106
-Clock Speed: 80 MHz
+Microcontroller: Tensilica Xtensa LX106<br>
+Clock Speed: 80 MHz<br>
 Flash Memory: 4 MB
 Wi-Fi: 802.11 b/g/n
 Operating Voltage: 3.3V
