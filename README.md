@@ -1,5 +1,4 @@
-# AgroTech---Smart-Agriculture-System-for-Sustainable-Farming
-##Developed weather monitoring and agricultural automation  with ESP8266 microcontroller. 
+# AgroTech---Smart-Agriculture-System-for-Sustainable-Farming 
 
 ## 1. Introduction
 -Here we introduce a smart weather reporting system over the Internet. Our introduced system allows for weather parameter reporting over the Internet. It allows the people to directly check the weather states online without the need of a weather forecasting agency. System uses temperature, humidity as well as rain with humidity sensor to monitor weather and provide live reporting of the weather statistics. The system constantly monitors temperature using temperature sensor, humidity using humidity sensor and also for rain. Weather monitoring system deals with detecting and gathering various weather parameters at different locations which can be analysed or used for weather forecasting. 
